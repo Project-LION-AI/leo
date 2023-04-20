@@ -22,7 +22,7 @@ Forked the OpenAI Discord bot and upgraded the model to gpt-3.5-turbo, added que
 
 # Setup
 
-1. Copy `.env.example` to `.env` and start filling in the values as detailed below
+1. Copy `.env.example` to `botenv.env` and start filling in the values as detailed below
 1. Go to https://beta.openai.com/account/api-keys, create a new API key, and fill in `OPENAI_API_KEY`
 1. Create your own Discord application at https://discord.com/developers/applications
 1. Go to the Bot tab and click "Add Bot"
